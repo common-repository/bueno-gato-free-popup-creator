@@ -1,0 +1,29 @@
+		<div id="sq_popup_optin_container" class="popup_big_container">
+			<div id="sq_popup_optin_body">
+				<div id="pop_close_btn"></div>
+				<div id="sq_popup_head_img"></div>
+				<div id="sq_popup_body">
+					<div class="sq_popup_header">I love cake</div>		
+					<div class="sq_popup_content">
+						<ul>
+							<li>I have 1000 cakes</li>
+							<li>They are hand made</li>
+							<li>They are tasty</li>
+							<li>I'm feeling generous</li>
+						</ul>
+						<div>Do you want some of them?</div>
+					</div>
+					<div class="sq_popup_ribbon">Enter your email now</div>
+					<div class="sq_popup_form">
+						<form method="post" action="">
+							<input type="text" name="email" value="enter your email here"/>
+							<input type="submit" value="submit"/>
+						</form>
+					</div>
+					<div class="sq_popup_privacy"><img src="assets/lock.png" />We respect your privacy</div>
+				</div>
+				<div id="sq_popup_foot_img"></div>
+				
+			</div>
+			<div></div> <!-- a blank div to deal with stripping -->
+		</div>	

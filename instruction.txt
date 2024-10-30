@@ -1,0 +1,3 @@
+1. Install the plugin as normal wordpress plugin using upload method
+2. Go to Bueno Gato Popup menu on the left, then to settings and click on complete setup
+3. You are done!
